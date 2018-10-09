@@ -1,0 +1,9 @@
+{
+	"name": "most_isolated",
+	"authors": [
+		"Sepheus"
+	],
+	"description": "Finding the most isolated point.",
+	"copyright": "Copyright © 2017, Sepheus",
+	"license": "proprietary"
+}
